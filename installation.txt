@@ -1,0 +1,20 @@
+#HOW TO INSTALL
+
+How to install?
+
+1 - Download the script and upload to your server ( eg: via FTP )
+
+2 - Unzip the download script on folder, where you want to INSTALL BOOKING ENGINE.
+
+3 - Then browse to the script folder ( eg: yourdomain.com/booking-engine-folder/ )
+
+4 - Then you will be seeing one form, please fill up it.
+
+    Enter OH partner Id, if you don't have  then please send request to sales@openhotelier.com
+    Enter your Partner API Key
+    Enter mysql hostname of your server.
+    Enter mysql username
+    Enter mysql password
+    Enter database name, which will create on server automatically for booking engine
+    
+5 - Click on ‘Submit’ button, now BOOKING ENGINE READY FOR USE.

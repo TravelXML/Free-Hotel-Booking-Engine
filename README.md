@@ -2,7 +2,7 @@
 Openhotelier Partner API let you build your application with fastest hotel search, availability and booking functionalities. You can create your booking engine right away.
 INSTALL this script in 3 minute and have your BOOKING ENGINE
 Who can use this?
-Hotels, Travel Agents, Tour Operators, Corporate Travels
+Hotels, Travel Agents, Tour Operators, Corporate Travels.
 What all functionality it has?
 We came up with minimal functionality, on next version you can expect more. It’s having all the  below functionalities.
 1 - Search Availability

@@ -17,7 +17,7 @@ We came up with minimal functionality, on next version you can expect more. Itâ€
 
 2 - Create Booking
 
-3 - Amend Booking
+3 - Modify Booking
 
 4 - Cancel Booking
 
@@ -41,6 +41,8 @@ Version : 1.0.0
 Language: Mysql, PHP, Jquery
 
 For more details contact to sales@openhotelier.com
+
+-------------------------------------------
 
 Openhotelier INC.
 

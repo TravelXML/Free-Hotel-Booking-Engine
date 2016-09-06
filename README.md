@@ -46,7 +46,7 @@ For more details contact to sales@openhotelier.com
 
 Openhotelier INC.
 
-Male, Maldives
+Delaware, USA
 
 
 
